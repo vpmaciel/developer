@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1699724676 source:d:\projetos\developer\c\agenda\contato.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	"contato.h"
+
+1699542390 d:\projetos\developer\c\agenda\sqlite3.h
+	<stdarg.h>
+
+1699724712 d:\projetos\developer\c\agenda\contato.h
+
+1699724738 source:d:\projetos\developer\c\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1699542662 source:d:\projetos\developer\c\agenda\sqlite3.c
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<tcl.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<windows.h>
+	<os2safe.h>
+	<os2.h>
+	<uconv.h>
+	<ctype.h>
+	<time.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<dlfcn.h>
+	<winbase.h>
+	<sys/cygwin.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1700146044 source:d:\developer\c\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1699542662 source:d:\developer\c\agenda\sqlite3.c
+	"config.h"
+	<stdint.h>
+	<inttypes.h>
+	<tcl.h>
+	<stdarg.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<stddef.h>
+	<windows.h>
+	<os2safe.h>
+	<os2.h>
+	<uconv.h>
+	<ctype.h>
+	<time.h>
+	<pthread.h>
+	<math.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<sys/time.h>
+	<errno.h>
+	<sys/mman.h>
+	<sys/ioctl.h>
+	<semaphore.h>
+	<limits.h>
+	<sys/file.h>
+	<sys/param.h>
+	<sys/mount.h>
+	<utime.h>
+	<dlfcn.h>
+	<winbase.h>
+	<sys/cygwin.h>
+	"sqlite3rtree.h"
+	<unicode/utypes.h>
+	<unicode/uregex.h>
+	<unicode/ustring.h>
+	<unicode/ucol.h>
+	<unicode/ubrk.h>
+	<unicode/utf16.h>
+
+1700146044 source:d:\developer\c\agenda\contato.c
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+	"contato.h"
+
+1699542390 d:\developer\c\agenda\sqlite3.h
+	<stdarg.h>
+
+1699730224 d:\developer\c\agenda\database.h
+
+1700138170 d:\developer\c\agenda\contato.h
+
